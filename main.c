@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-  int i;
-  for (i = 0; i < 32; i++)
+  int j;
+  for (j = 0; j < 32; j++)
   {
     printf("Hello Holberton\n");
   }
