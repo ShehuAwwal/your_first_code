@@ -1,9 +1,9 @@
-#include <stdio.h>
-int main(){
-    int j = 0;
-    while (j < 32){
+int main()
+{
+  int i;
+  for (i = 0; i < 32; i++)
+  {
     printf("Hello Holberton\n");
-    j++;
-    }
+  }
   return 0;
 }
